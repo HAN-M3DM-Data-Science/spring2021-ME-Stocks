@@ -1,7 +1,8 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Sissi Stocks
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
@@ -10,21 +11,19 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Watch this video if you don't know how to embed video's ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VvTYuQPINec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The company has over 120 million members globally. Their content also very diverse and differ per country. The data is used in how they compose their catalog, how they produce their content, and how they encode and stream it
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The data is used in how they compose their catalog, how they produce their content, and how they encode and stream it. The data is also used for content acquisition. They look at the gaps at current offering and what titles might be interesting to them.
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+They use the data to optimize the production of Netflix Original series. E.g. House of Cards. They have noticed that fans of the UK version, also enjoyed watching movies with Kevin Spacey as lead. Also, they noticed that they showed a preference for director David Fincher. Netflix combined these three and created House of Cards.
+This is also used when it comes to new original content, where data is used to create new Netflix Original shows, optimized for their audience.
